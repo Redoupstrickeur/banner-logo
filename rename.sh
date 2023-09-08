@@ -1,8 +1,8 @@
 #!/bin/bash
-#Creation - MARMU
+#Creation - RED
 #Facebook - TECHNOLOGY  REDOUPSTRICKEUR
 #DO NOT COPY & MODIFY
-#####စောက်ဖောင်းထုခြင်တဲ့ခေါင်းကြီးတို့ 🦋လံုပါစေ ###############
+#####REDOUPS ###############
 ##### I'm Recept All Senior ##########################
 
 
