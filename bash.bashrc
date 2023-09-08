@@ -1,5 +1,5 @@
-# CREATOR       : MarMu
-# FACEBOOK PAGE : Technology By MarMu
+# CREATOR       : REDOUPSHACK
+# FACEBOOK PAGE : Technology By REDOUPSHACK
 # DO NOT TRY COPY OR EDIT THIS FILE
 # ENJOY GUYS
 export HISTCONTROL=ignoreboth
