@@ -28,10 +28,10 @@ echo
         toilet --gay Ready...!! | lolcat
         echo
 
-echo -e "\e[1m\e[35m Do You Know MARMU.."
+echo -e "\e[1m\e[35m Do You Know REDOUPSTRICKEUR.."
 sleep 2.2
 cd $HOME
-rm -rf 7-H4CK3R
+rm -rf banner-logo
 
 echo
         echo -e "\e[1m\e[32mV-2.0 \[\e[35mCreation by :\e[33m REDOUPS (REDOUPSTRICKEUR)"
