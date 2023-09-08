@@ -63,7 +63,7 @@ echo " "
 echo -e $YL"      < ━━━━━━━━━━━━ [★]REDOUPSTRICKEUR [★] ━━━━━━━━━━━━━━━ >"
 
 echo " "
-echo -e $PP"           《$GR H$gYL A$RD C$GY K$LBL E$GR R$WH  ☆$RD  M$BL Y$GR A$PP N$LBL M$YL A$BL R$GY 》" 
+echo -e $PP"           《$GR H$gYL A$RD C$GY K$LBL E$GR R$WH  ☆$RD  RED$BL OUPS$GR HACK$PP EUR$LBL TE$YL A$BL M$GY 》" 
 echo
 echo -e ""
 echo -e $GR " Enter Your Name : "
